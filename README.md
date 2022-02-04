@@ -3,6 +3,9 @@ Nguyen Si Thien - VKU
 
 Create Time line widget UI - with package timelines in -[pub.dev] (pub.dev)
 
+![image](https://user-images.githubusercontent.com/70851146/152541316-42191b6f-df15-41f0-9220-0e7ac164ce66.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
